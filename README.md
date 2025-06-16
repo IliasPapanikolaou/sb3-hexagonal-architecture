@@ -1,0 +1,2 @@
+Hexagonal Architecture is a design pattern that keeps your core business logic separate from external systems like databases, APIs, or message queues.
+It uses "ports" to define what the app can do (use cases), and "adapters" to connect external inputs and outputs - like REST, Kafka, or Databases.
